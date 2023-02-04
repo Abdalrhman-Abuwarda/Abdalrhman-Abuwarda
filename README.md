@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Abdalrhman Abuwarda&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Abdalrhman-Abuwarda&style=flat-square&color=blue" alt=""/>
   <br>
 <h1>
   hey there
@@ -35,7 +35,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Codewars and GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdalrhman Abuwarda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalrhman-abuwarda-97348825b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalrhman-abuwarda-97348825b/)
 
 ---
 
