@@ -35,7 +35,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Codewars and GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalrhman-abuwarda-97348825b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdalrhman%20Abwarda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalrhman-abuwarda-97348825b/)
 
 ---
 
